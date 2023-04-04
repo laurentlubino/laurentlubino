@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @laurentlubino
+# Hi, I’m @laurentlubino 👋
 
-I'm a mobile and web developer using react / react native with typescript!
+I'm a fullstack developer using typescript. Love a react web app, react native mobile app or anything backend with node.
